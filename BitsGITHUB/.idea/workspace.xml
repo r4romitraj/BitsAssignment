@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785505b2-d36a-4484-a9d5-f248fcccd44f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BitsGITHUB.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BitsGITHUB/SumOfNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumOfNumbers.java" beforeDir="false" />
-    </list>
+    <list default="true" id="785505b2-d36a-4484-a9d5-f248fcccd44f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +24,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/r4rom/Desktop/git/DestFolder"
   }
 }]]></component>
   <component name="RunManager">

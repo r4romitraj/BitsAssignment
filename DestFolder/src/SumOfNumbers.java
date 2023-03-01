@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SumOfNumbers {
     public static void main(String[] args) {
 
-        int a = 0,b=0,sum=0;
+        int a = 0,b=0,sum=0,substract=0;
         Scanner sc =  new Scanner(System.in);
         System.out.println("Enter first number");
         a=sc.nextInt();
@@ -12,5 +12,8 @@ public class SumOfNumbers {
         sum =a+b;
         System.out.println("Sum of two number is :" +sum);
 
+   // Adding the substracting part also
+        substract=a-b;
+        System.out.println("substract of two number is :" +substract);
     }
 }
